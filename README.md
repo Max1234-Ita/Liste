@@ -5,7 +5,8 @@ Questo repository ospita alcune liste:
 
 - **_listacomuni.txt_**:
   Elenco dei comuni italiani con relativi indice ISTAT, Provincia, Regione, Prefisso telefonico, CAP, Codice Fiscale, Numero abitanti e link alla pagina di comuni.it (dall'URL si può anche desumere il codice dell' Ufficio IVA competente, usato per assegnare le partite IVA).
-  Scaricato da comuni-italiani.it (http://lab.comuni-italiani.it/download/comuni.html)
+  Scaricato da comuni-italiani.it (_http://lab.comuni-italiani.it/download/comuni.html_)
+  Per altro elenco, comprensivo dei codici Belfiore, vedi _https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/elenco_codici_comuni.php_
 
 <br>
 
