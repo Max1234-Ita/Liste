@@ -2,12 +2,24 @@
 Varie liste di nomi, ecc.
 
 Questo repository ospita alcune liste:
- - **nomi_italiani_m.txt**: 
+
+- **_listacomuni.txt_**:
+  Elenco dei comuni italiani con relativi indice ISTAT, Provincia, Regione, Prefisso telefonico, CAP, Codice Fiscale, Numero abitanti e link alla pagina di comuni.it (dall'URL si può anche desumere il codice dell' Ufficio IVA competente, usato per assegnare le partite IVA).
+  Scaricato da comuni-italiani.it (http://lab.comuni-italiani.it/download/comuni.html)
+
+<br>
+
+ - **_cognomi.txt_**:
+Cognomi presenti in Italia. Basata sulla lista pubblicata da _pdesterlich_ (https://gist.github.com/pdesterlich/2562407) e successivamente ampliata da fonti varie.
+
+<br>  
+
+ - **_nomi_italiani_m.txt_**: 
 Nomi maschili presenti in Italia. Basata sulla lista pubblicata da _pdesterlich_ (https://gist.github.com/pdesterlich/2562329) e successivamente ampliata.
 
 <br>
 
- - **nomi_italiani_f.txt**: 
+ - **_nomi_italiani_f.txt_**: 
 Nomi femminili presenti in Italia. Basata sulla lista pubblicata da _pdesterlich_ (https://gist.github.com/pdesterlich/2562329) e successivamente ampliata.
 
 
@@ -19,6 +31,3 @@ Nel caso, provvederò all'update.
 
 
 <br>
-
- - **cognomi.txt**:
-Cognomi presenti in Italia. Basata sulla lista pubblicata da _pdesterlich_ (https://gist.github.com/pdesterlich/2562407) e successivamente ampliata.
